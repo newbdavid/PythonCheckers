@@ -1,2 +1,2 @@
 # PythonCheckers
-Lets get this done for KingG
+you can do it
